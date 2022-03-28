@@ -14,3 +14,4 @@ Once there, active the necessary grace, activate the program, and teleport to th
 If you tab out of the game while the program is doing something, it will stop the auto farm.  This can be disabled but it is recommended that this stays turned on.
 
 
+Youtube video on this project: https://www.youtube.com/watch?v=X41FenhxjQw
