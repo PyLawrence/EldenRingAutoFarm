@@ -1,5 +1,6 @@
 # EldenRingAutoFarm
 ### This is a windows application that will allow you to farm runes while AFK.
+### Executable downloadable on the right side of this page
 
 ## How to use
 * Must have the "Sacred Relic Sword" which can be obtained by beating the final boss.
